@@ -3,7 +3,6 @@
 This Python script implements a classic Ping Pong game, offering an engaging gaming experience where players compete head-to-head.
 
 ## Features:
-
 Simple Controls: Enjoy intuitive controls allowing players to maneuver their paddle with designated keys.
 
 Two Player Mode: Engage in thrilling matches with a friend in the two-player mode, both competing on the same screen.
