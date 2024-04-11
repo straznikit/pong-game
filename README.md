@@ -12,11 +12,8 @@ Score Tracking: Keep track of the score in real-time as players earn points by s
 Game Over Detection: The game ends when one player fails to hit the ball, resulting in a point for the opposing player. 
 
 ## Usage:
-
 1. Run the script to start the Snake game.
-
 2. Use the arrow keys or designated keys to control the snake's movement.
-
 3. Guide the snake to consume food and avoid collisions with its own body or the game borders.
 
 4. Aim to achieve the highest score possible and challenge yourself to beat your previous records.
